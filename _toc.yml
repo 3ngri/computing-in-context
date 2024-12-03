@@ -1,0 +1,6 @@
+format: jb-book
+root: mymarkdownfile
+chapters:
+- file: Project 1
+- file: Project 2
+- file: project_3
